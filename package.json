@@ -1,0 +1,27 @@
+{
+  "name": "siyuan-back",
+  "version": "1.0.0",
+  "description": "思源笔记备份",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wine-wind/siyuan-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wine-wind/siyuan-back/issues"
+  },
+  "homepage": "https://github.com/wine-wind/siyuan-back#readme"
+}
